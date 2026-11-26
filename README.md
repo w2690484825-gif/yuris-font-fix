@@ -6,6 +6,26 @@ Fix for the blank font selection dropdown (`フォント設定`) in **YU-RIS** e
 
 ---
 
+## 适用作品 / Tested & Compatible Titles
+
+### 已实测通过（Verified In-Game）
+- **鯨神のティアスティラ**（Whirlpool）
+- **ワールド・エレクション**（Whirlpool）
+- **はじめるセカイの理想論**（Whirlpool）
+- **アンレス・テルミナリア**（Whirlpool）
+
+### 确认同款机制适用（Confirmed Same YU-RIS Font Filter）
+- **Justy×Nasty ～魔王はじめました～**（Whirlpool）
+- **まじかりっく⇔スカイハイ ～空飛ぶホウキに想いをのせて～**（Whirlpool）
+- **猫忍えくすはーと**（Whirlpool）
+- **初情スプリンクル**（Whirlpool）
+- **Pieces／渡り鳥のソムニウム**（Whirlpool）
+- **Pieces／揺り籠のカナリア**（Whirlpool）
+
+> 理论上适用于所有使用同代 YU-RIS 引擎且出现「`フォント設定` 下拉列表空白」问题的 Whirlpool 及其他社团作品。
+
+---
+
 ## 问题描述
 
 在中文版或英文版 Windows（非 Unicode 程序语言已设为日语）下运行 YU-RIS 引擎游戏时，打开 `CONFIG -> フォント設定`，输入框里只显示默认的 `MS ゴシック`，点开下拉菜单后列表一片空白，无法切换电脑里已经安装的 `游ゴシック`、`メイリオ`、`BIZ UDゴシック` 等日语字体。
