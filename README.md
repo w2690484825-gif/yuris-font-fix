@@ -21,6 +21,10 @@ Fix for the blank font selection dropdown (`フォント設定`) in **YU-RIS** e
 - **初情スプリンクル**（Whirlpool）
 - **Pieces／渡り鳥のソムニウム**（Whirlpool）
 - **Pieces／揺り籠のカナリア**（Whirlpool）
+- **Lunaris Filia ～キスと契約と真紅の瞳～**（Whirlpool）
+- **けもの道☆ガーリッシュスクエア**（Whirlpool）
+- **けもの道☆ガーリッシュスクエア2**（Whirlpool）
+- **けもの道☆ガーリッシュスクエア LOVE+PLUS**（Whirlpool）
 
 > 理论上适用于所有使用同代 YU-RIS 引擎且出现「`フォント設定` 下拉列表空白」问题的 Whirlpool 及其他社团作品。
 
